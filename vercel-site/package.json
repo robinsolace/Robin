@@ -1,0 +1,8 @@
+{
+  "name": "robin-solace-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('Static Robin Solace site is ready for Vercel')\""
+  }
+}
